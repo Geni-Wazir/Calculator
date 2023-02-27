@@ -7,7 +7,7 @@ from power import power
 
 
 print('''
-	WELCOM TO nu
+	WELCOME TO OUR CALCULATOR
 
 	1. Addition
 	2. Subtraction
