@@ -1,7 +1,7 @@
 import math
 
-
 def logarithm(number, base):
-    return math.log(number, base)
+    if(number > 0 and base > 0) :
+        return math.log(number, base)
 
 
